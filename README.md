@@ -1,3 +1,4 @@
+#
 # Rock, Paper, Scissors
 
 If you want a **hard** challenge, create a Rock-Paper-Scissors game. You are going to need to do a lot of comparisons using `if` and `elsif` statements, so be sure to get through Chapter 7 of Pine first.
